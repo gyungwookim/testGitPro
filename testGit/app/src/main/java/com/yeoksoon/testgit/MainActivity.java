@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.d("kkw", "원격 저장소로 보내기~");
+        Log.d("kkw", "원격 저장소로 보내기2~");
     }
 }
