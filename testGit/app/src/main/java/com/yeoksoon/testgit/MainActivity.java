@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.d("kkw", "브랜치로 가야할꺼");
+        Log.d("kkw", "브랜치로 마스터");
 
 
     }
