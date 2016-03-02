@@ -28,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("kkw", "브랜치로 실험2");
         Log.d("kkw", "브랜치로 실험3");
 
+
+        Log.d("kkw", "원격 저장소로 보내기~");
     }
 }
